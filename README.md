@@ -41,7 +41,6 @@
 - dotenv
 <br /><br />
  
-
  
 # HomePage 
 ![Alt text](/client/src/images/SoundUp_homepage.gif "Homepage")
